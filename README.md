@@ -6,3 +6,7 @@
 ***
 
 :two: [AWK call external variation](https://github.com/geophydog/AWK/blob/master/Call-external-variation.md)
+
+***
+
+:three: [AWK 无分隔符分割 - split函数](https://github.com/geophydog/AWK/blob/master/Split.md)
