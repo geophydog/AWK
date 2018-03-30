@@ -1,5 +1,5 @@
 ### :one: 有分隔符情况  
-_文件内容 test.txt
+_文件内容 test.txt_
 ```
 AA a
 BB b
@@ -8,11 +8,11 @@ DD d
 EE e
 FF f
 ```
-_以" "为分隔符分割  
+#### 以" "为分隔符分割  
 ```awk
 awk '{split($0,arr," ");print arr[1], arr[2]}' test.txt
 ```
-_output:
+#### output:
 ```
 AA a
 BB b
