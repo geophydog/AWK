@@ -8,7 +8,8 @@ DD d
 EE e
 FF f
 ```
-_以" "为分隔符分割 _
+
+_以" "为分隔符分割_
 ```awk
 awk '{split($0,arr," ");print arr[1], arr[2]}' test.txt
 ```
