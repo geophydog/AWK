@@ -8,11 +8,11 @@ DD d
 EE e
 FF f
 ```
-#### 以" "为分隔符分割  
+_以" "为分隔符分割 _
 ```awk
 awk '{split($0,arr," ");print arr[1], arr[2]}' test.txt
 ```
-#### output:
+_output:_
 ```
 AA a
 BB b
@@ -26,7 +26,7 @@ FF f
 ```awk
 awk '{split($0,arr,"");print arr[1], arr[2], arr[4]}' test.txt
 ```
-_output:
+_output:_
 ```
 A A a
 B B b
