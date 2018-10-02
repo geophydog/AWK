@@ -1,5 +1,4 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-$$ \sum $$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sum" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum" title="\sum" /></a>
 
 
 :hotel: [Return to Home Page](https://github.com/geophydog/geophydog.github.io/blob/master/README.md)  
