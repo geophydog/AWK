@@ -1,6 +1,3 @@
-<a href="https://www.codecogs.com/eqnedit.php?latex=\sum" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum" title="\sum" /></a>
-
-
 :hotel: [Return to Home Page](https://github.com/geophydog/geophydog.github.io/blob/master/README.md)  
 ### 1. 一维循环
 ```awk
